@@ -1,0 +1,138 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-956169147",
+  "source": {
+   "name": "Recipe Order",
+   "showName": true,
+   "instructions": "Choose the number that would correspond to the order the recipe should be in.",
+   "points": "5",
+   "showValues": true,
+   "text": "Drain in colander: <<<3>>>.\nBring water to boil in saucepan: <<<1>>>.\nAdd margarine, milk and Cheese Sauce Mix; mix well: <<<5>>>.\nReturn macaroni to pan: <<<4>>>.\nAdd Macaroni; cook 7 to 8 min. or until tender, stirring occasionally: <<<2>>>.\n",
+   "tokens": {
+    "blank": [
+     "3",
+     "1",
+     "5",
+     "4",
+     "2"
+    ],
+    "text": [
+     "Drain in colander: ",
+     0,
+     ".\nBring water to boil in saucepan: ",
+     0,
+     ".\nAdd margarine, milk and Cheese Sauce Mix; mix well: ",
+     0,
+     ".\nReturn macaroni to pan: ",
+     0,
+     ".\nAdd Macaroni; cook 7 to 8 min. or until tender, stirring occasionally: ",
+     0,
+     ".\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-690226106",
+  "source": {
+   "name": "Check1",
+   "showName": false,
+   "instructions": "An algorithm is a set of __________ & ________ to solve a problem.",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "690c571d-d936-bb37-de44-29a065eb13e6",
+     "correct": true,
+     "answer": "steps"
+    },
+    {
+     "_id": "44227079-c600-3a93-fbf0-65e3baaf8694",
+     "correct": false,
+     "answer": "devices"
+    },
+    {
+     "_id": "454bb9ae-eddd-3479-bf8a-e178b9541e08",
+     "correct": false,
+     "answer": "values"
+    },
+    {
+     "_id": "524b73e4-e742-2f85-5b68-b5ba292516a5",
+     "correct": true,
+     "answer": "rules"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3337756752",
+  "source": {
+   "name": "Check2",
+   "showName": false,
+   "instructions": "Which of these would NOT involve an algorithm?\n",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e73e2561-8bfb-92a2-26d8-217d310a8360",
+     "correct": false,
+     "answer": "Solve the area of a rectangle"
+    },
+    {
+     "_id": "fe4128e4-271b-ee37-a7a6-6dee33f2bd3d",
+     "correct": false,
+     "answer": "Make a cake"
+    },
+    {
+     "_id": "f3fa0527-d7f4-6c23-9584-9dde6a02f684",
+     "correct": true,
+     "answer": "Money"
+    },
+    {
+     "_id": "27d74047-7abd-8148-de37-1178c6f6fdac",
+     "correct": false,
+     "answer": "Determine the distance between 2 places"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1394327231",
+  "source": {
+   "name": "Check3",
+   "showName": false,
+   "instructions": "In Computer Science an algorithm is a set of instructions normally in a ________ & ____________.",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "5b41492a-8515-3300-1bb5-a23e0cbb40cf",
+     "correct": false,
+     "answer": "box"
+    },
+    {
+     "_id": "20944e5e-dae3-1002-a5b7-055a066dd368",
+     "correct": true,
+     "answer": "computer language"
+    },
+    {
+     "_id": "ac0a1a17-2cc6-a280-1aa1-65bf8b29c5df",
+     "correct": true,
+     "answer": "specific software program"
+    },
+    {
+     "_id": "a8325054-ccb4-c796-ef24-da02c5e17e8a",
+     "correct": false,
+     "answer": "user manual"
+    }
+   ]
+  }
+ }
+]
